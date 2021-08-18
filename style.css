@@ -1,0 +1,51 @@
+.navbar{
+    box-shadow: 0 3px 6px #5AA7B7;
+    opacity: .8;
+}
+
+.nav-item{
+    font-size: 30px;
+    margin-left: 20px;
+}
+header{
+    min-height: 100vh;
+    background-image: linear-gradient(rgba(90, 167, 183,.7),rgba(90, 167, 183,.7))
+    ,url(../images/mountains.jpg);
+    background-position: center;
+    background-size: cover;
+}
+.img1{
+    height: 100px;
+    width: 100px;
+    margin-top: -40px; 
+    margin-left: 72px;
+}
+.sign-up{
+    background-color: #F8F9FA;
+    position: relative;
+}
+
+.fas1{
+    background-color: #E9ECEF;
+    padding: 13px;
+    border-radius: 9%;
+    position: absolute;
+    top: 83px;
+    border: solid 1px #D4D5D5 ;
+}
+.fas2{
+    background-color: #E9ECEF;
+    padding: 13px;
+    border-radius: 9%;
+    position: absolute;
+    top: 143px;
+    border: solid 1px #D4D5D5 ;
+}
+.fas3{
+    background-color: #E9ECEF;
+    padding: 74px 15px;
+    border-radius: 9%;
+    position: absolute;
+    top: 201px;
+    border: solid 1px #D4D5D5 ;
+}
